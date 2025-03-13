@@ -98,6 +98,4 @@ Contributions are welcome! Please follow these steps:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
-## Contact
 
-For questions or inquiries, please contact [ARC PUNE](https://github.com/ARCPUNE), [Sahil Kamble](https://github.com/thesahilkamble), [Akash Bharambe](https://github.com/Akash-Bharambe).
